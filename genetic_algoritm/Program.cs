@@ -6,7 +6,8 @@ namespace genetic_algoritm
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("СОси");
+            
         }
     }
 }
